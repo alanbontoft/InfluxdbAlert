@@ -1,0 +1,34 @@
+[
+  {
+    "name": "High temp1",
+    "type": "threshold",
+    "query": "SELECT temp1, time FROM plc_thermometer ORDER BY time DESC LIMIT 1",
+    "field": "temp1",
+    "threshold": 40,
+    "comparison": "greater"
+  },
+  {
+    "name": "Low temp1",
+    "type": "threshold",
+    "query": "SELECT temp1, time FROM plc_thermometer ORDER BY time DESC LIMIT 1",
+    "field": "temp1",
+    "threshold": 30,
+    "comparison": "less"
+  },
+    {
+    "name": "High temp2",
+    "type": "threshold",
+    "query": "SELECT temp2, time FROM plc_thermometer ORDER BY time DESC LIMIT 1",
+    "field": "temp2",
+    "threshold": 40,
+    "comparison": "greater"
+  },
+  {
+    "name": "Low temp2",
+    "type": "threshold",
+    "query": "SELECT temp2, time FROM plc_thermometer ORDER BY time DESC LIMIT 1",
+    "field": "temp2",
+    "threshold": 30,
+    "comparison": "less"
+  }
+]

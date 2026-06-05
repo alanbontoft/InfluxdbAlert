@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\103019535\\Documents\\projects\\InfluxAlert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46F727A1-7BBB-5F08-44EE-937D21DE4A15}|InfluxAlert.csproj|c:\\users\\103019535\\documents\\projects\\influxalert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F727A1-7BBB-5F08-44EE-937D21DE4A15}|InfluxAlert.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F727A1-7BBB-5F08-44EE-937D21DE4A15}|InfluxAlert.csproj|c:\\users\\103019535\\documents\\projects\\influxalert\\alertrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F727A1-7BBB-5F08-44EE-937D21DE4A15}|InfluxAlert.csproj|solutionrelative:alertrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F727A1-7BBB-5F08-44EE-937D21DE4A15}|InfluxAlert.csproj|c:\\users\\103019535\\documents\\projects\\influxalert\\alerts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46F727A1-7BBB-5F08-44EE-937D21DE4A15}|InfluxAlert.csproj|solutionrelative:alerts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "alerts.json",
+              "DocumentMoniker": "C:\\Users\\103019535\\Documents\\projects\\InfluxAlert\\alerts.json",
+              "RelativeDocumentMoniker": "alerts.json",
+              "ToolTip": "C:\\Users\\103019535\\Documents\\projects\\InfluxAlert\\alerts.json",
+              "RelativeToolTip": "alerts.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-04T10:37:40.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlertRule.cs",
+              "DocumentMoniker": "C:\\Users\\103019535\\Documents\\projects\\InfluxAlert\\AlertRule.cs",
+              "RelativeDocumentMoniker": "AlertRule.cs",
+              "ToolTip": "C:\\Users\\103019535\\Documents\\projects\\InfluxAlert\\AlertRule.cs",
+              "RelativeToolTip": "AlertRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T10:36:14.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\103019535\\Documents\\projects\\InfluxAlert\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\103019535\\Documents\\projects\\InfluxAlert\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAowIcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T09:03:35.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

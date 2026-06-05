@@ -1,0 +1,25 @@
+[
+  {
+    "name": "High temp1",
+    "type": "threshold",
+    "query": "SELECT temp1 FROM plc_thermometer ORDER BY time DESC LIMIT 1",
+    "field": "temp1",
+    "threshold": 30,
+    "comparison": "greater"
+  },
+  {
+    "name": "Low temp1",
+    "type": "threshold",
+    "query": "SELECT temp1 FROM plc_thermometer ORDER BY time DESC LIMIT 1",
+    "field": "temp1",
+    "threshold": 30,
+    "comparison": "less"
+  },
+  {
+    "name": "temp1 Deadman",
+    "type": "deadman",
+    "query": "SELECT time FROM cpu ORDER BY time DESC LIMIT 1",
+    "max_age_seconds": 120
+  }
+]
+
